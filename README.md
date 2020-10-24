@@ -1,5 +1,5 @@
 # RadialSymmetry (v1)
-a Grasshopper plugin
+Grasshopper plugin
 
 ![RadialSymmetry](/RS_visual.jpg)
 
